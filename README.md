@@ -1,6 +1,11 @@
 # SEPM_lab
 > Experiment
 
+# GIT command
+>>![Git_command_1](https://user-images.githubusercontent.com/98691410/232246132-e295d0c5-c451-4369-8b43-cb399aef8195.jpeg)
+>>![Git_command_2](https://user-images.githubusercontent.com/98691410/232246143-4764fc77-ada2-497a-b646-700eb71ed0ea.jpeg)
+
+
 # Jenkins
 >> Pipeline
 >> ![image](https://user-images.githubusercontent.com/98691410/221517142-cfb26bac-49df-4bc7-bdaa-4a4026000604.png)
